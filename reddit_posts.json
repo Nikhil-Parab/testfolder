@@ -1,0 +1,122 @@
+[
+  {
+    "title": "I\u2019m a Non-Developer Who Launched a Cybersecurity SaaS. AMA!",
+    "score": 0,
+    "date": "2025-03-06 21:34:00",
+    "post_text": "Have you ever had the pleasure of filling out a 500 question security questionnaire? Better yet, have you ever had to review those answers to that security questionnaire? I\u2019m Jonathan, a Founder in Chicago who launched a cybersecurity SaaS in the Third Party Risk Management (TPRM) space. We have two products:\n\n* **Docubark**\u00a0(helping enterprises assess vendors)\n* **Questionade**\u00a0(helping vendors respond to security questionnaires)\n\nI've been at it for 18 months and its been an enormous challenge but also exciting and fulfilling. I'd love to answer your questions both about TPRM and/or launching a SaaS in cybersecurity.\n\n**Here are a few topics that I'd love to answer questions about:**\u00a0\n\n* What's the point of TPRM if large vendors like Okta and Zapier continue to be breached on a regular basis?\n* Why do security questionnaires persist - and will the industry ever move away from them? \u00a0\n* Where do you find an idea for a product?\n* How to build an MVP as a solo non-dev Founder?\n* How to get traction with your MVP?\n* Key lessons from the first 18 months.\n\n**Ask Me Anything!**"
+  },
+  {
+    "title": "We are OSTIF.org! We audit open-source projects and help secure the open source ecosystem! Ask Us Anything!",
+    "score": 26,
+    "date": "2025-03-03 21:55:39",
+    "post_text": "Hi everyone,\n\nToday we're joined by the team at the Open Source Technology Improvement Fund (OSTIF for short). They've dedicated the last 10 years to bringing awareness and raising funds for the cause of securing the world\u2019s open source ecosystem. Take a peek at the extensive history of their involvement and security audits [here](https://github.com/ostif-org/OSTIF/blob/main/Completed-Engagements.md), and our annual report [here](https://ostif.org/ostif-2024-annual-report/). For those who are unfamiliar with the importance of security audits, here are a few major audits they performed for software you\u2019 probably depend on right now!\n\n* cURL\u00a0[https://ostif.org/wp-content/uploads/2022/12/Assurance-Report-cURL-Code-Review-Testing-Analysis-Fix-Review-2022-2.pdf](https://ostif.org/wp-content/uploads/2022/12/Assurance-Report-cURL-Code-Review-Testing-Analysis-Fix-Review-2022-2.pdf)\n* Notary Project\u00a0[https://ostif.org/wp-content/uploads/2025/01/24-10-1825-LIV-v1.5.pdf](https://ostif.org/wp-content/uploads/2025/01/24-10-1825-LIV-v1.5.pdf)\n* Git\u00a0[https://ostif.org/the-audit-of-git-is-complete/](https://ostif.org/the-audit-of-git-is-complete/)\n* Linux Kernel\u00a0[https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/)\u00a0,\u00a0[https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/)\n* OpenSSL\u00a0[https://ostif.org/wp-content/uploads/2019/01/18-04-720-REP\\_v1.2.pdf](https://ostif.org/wp-content/uploads/2019/01/18-04-720-REP_v1.2.pdf)\u00a0;\u00a0[https://ostif.org/openssl-audit-complete/](https://ostif.org/openssl-audit-complete/)\n\nFeel free to ask anything about security in open source, security audits and fundraising for them, and how we built this startup!\n\nParticipating from the team is:\n\n* Derek, Executive Director\n* Amir, Managing Director\n* Helen, Communications and Projects\n\nThey will be responding from the [u/OSTIFofficial](https://www.reddit.com/u/OSTIFofficial) account between March 3 and March 5.\n\nAlso we encourage any of our community who have received audits already to leave a note here so we can thank you for your efforts in respecting your users\u2019 security!"
+  },
+  {
+    "title": "What mistakes did you make in your career and what can we learn from them.",
+    "score": 109,
+    "date": "2025-03-07 23:21:39",
+    "post_text": "What mistakes did you make in your cybersecurity career and what can we learn from them.\n\nConfessions are welcome.\n\nGive newbie\u2019s like us a chance to learn from your valuable experiences.\n\nEdit:\n\nThanks, everyone, for sharing such great insights!\n\nI\u2019d love to add something from my side. I\u2019ve realised that putting in effort always pays off. When people see the hard work you\u2019ve put in, they naturally feel inclined to help you out."
+  },
+  {
+    "title": "Microsoft says malvertising campaign impacted 1 million PCs",
+    "score": 294,
+    "date": "2025-03-07 17:35:03",
+    "post_text": ""
+  },
+  {
+    "title": "Why is AppSec training still so useless?",
+    "score": 56,
+    "date": "2025-03-08 01:54:47",
+    "post_text": "So, I was looking at [this study](https://www.securitycompass.com/reports/2025-state-of-application-security-training/) on AppSec training, and one stat jumped out: 80%+ of companies require it, but a lot of people think it's outdated, boring, and basically just a compliance checkbox.\n\nWe all know training is important, but if developers are just sitting through some OWASP Top 10 slideshow for the tenth time, are we actually making anything more secure?\n\nSome points from the study:\n\n* Most training is done for compliance, not because it actually helps.\n* Devs complain it\u2019s irrelevant to their actual work. They\u2019re not learning how to spot threats in their own codebases, just generic best practices.\n* AI and automation are changing security, but training isn't keeping up.\n\nWhat's the best AppSec training you\u2019ve actually gotten? Or is it all just check-the-box nonsense? Or what would the training look like if you could do it from scratch?\n\nWould be interesting to hear from people who\u2019ve found something that actually works. Or if it's all useless."
+  },
+  {
+    "title": "Director of Cybersecurity",
+    "score": 141,
+    "date": "2025-03-07 20:31:04",
+    "post_text": "What do you do as a Director of Cybersecurity? How technical are you and what experiences prepared you? I feel that a Director is more about the overall security plan and oversight and less about using Metasploit, Nmap, or using Splunk. "
+  },
+  {
+    "title": "Japanese telco giant NTT Com says hackers accessed details of almost 18,000 organizations",
+    "score": 76,
+    "date": "2025-03-07 21:36:41",
+    "post_text": ""
+  },
+  {
+    "title": "Windows Event Logs to SIEM",
+    "score": 15,
+    "date": "2025-03-08 04:20:07",
+    "post_text": "Are there any pros or cons by sending only Domain Controllers Windows Event Logs vs all hosts - DC's, servers, user desktops/laptops to a SIEM? "
+  },
+  {
+    "title": "Any good companies that provide tabletop exercises?",
+    "score": 21,
+    "date": "2025-03-08 02:08:17",
+    "post_text": "I\u2019m looking into companies that engage in tabletop exercises. I\u2019d like to have a file placed in our environment that acts malicious so our security controls will detect it and we can go through an entire incident response process. Not just a situation on paper. "
+  },
+  {
+    "title": "What is the best way to block .exe and .msi files from being downloaded by end users?",
+    "score": 50,
+    "date": "2025-03-07 19:59:07",
+    "post_text": "Hi yall, I have been looking for a quick and effective way to block these file types from being downloaded for end users in Chrome and Edge. The best way to explain would be to stop users from downloading programs we don\u2019t support/ potentially malicious applications. I would like to have a way to block every but HAVE A WHITELIST FOR EXCEPTIONS.\n\nWhat is the best and most effective way to do this?"
+  },
+  {
+    "title": "I\u2019m a Non-Developer Who Launched a Cybersecurity SaaS. AMA!",
+    "score": 0,
+    "date": "2025-03-06 21:34:00",
+    "post_text": "Have you ever had the pleasure of filling out a 500 question security questionnaire? Better yet, have you ever had to review those answers to that security questionnaire? I\u2019m Jonathan, a Founder in Chicago who launched a cybersecurity SaaS in the Third Party Risk Management (TPRM) space. We have two products:\n\n* **Docubark**\u00a0(helping enterprises assess vendors)\n* **Questionade**\u00a0(helping vendors respond to security questionnaires)\n\nI've been at it for 18 months and its been an enormous challenge but also exciting and fulfilling. I'd love to answer your questions both about TPRM and/or launching a SaaS in cybersecurity.\n\n**Here are a few topics that I'd love to answer questions about:**\u00a0\n\n* What's the point of TPRM if large vendors like Okta and Zapier continue to be breached on a regular basis?\n* Why do security questionnaires persist - and will the industry ever move away from them? \u00a0\n* Where do you find an idea for a product?\n* How to build an MVP as a solo non-dev Founder?\n* How to get traction with your MVP?\n* Key lessons from the first 18 months.\n\n**Ask Me Anything!**"
+  },
+  {
+    "title": "We are OSTIF.org! We audit open-source projects and help secure the open source ecosystem! Ask Us Anything!",
+    "score": 28,
+    "date": "2025-03-03 21:55:39",
+    "post_text": "Hi everyone,\n\nToday we're joined by the team at the Open Source Technology Improvement Fund (OSTIF for short). They've dedicated the last 10 years to bringing awareness and raising funds for the cause of securing the world\u2019s open source ecosystem. Take a peek at the extensive history of their involvement and security audits [here](https://github.com/ostif-org/OSTIF/blob/main/Completed-Engagements.md), and our annual report [here](https://ostif.org/ostif-2024-annual-report/). For those who are unfamiliar with the importance of security audits, here are a few major audits they performed for software you\u2019 probably depend on right now!\n\n* cURL\u00a0[https://ostif.org/wp-content/uploads/2022/12/Assurance-Report-cURL-Code-Review-Testing-Analysis-Fix-Review-2022-2.pdf](https://ostif.org/wp-content/uploads/2022/12/Assurance-Report-cURL-Code-Review-Testing-Analysis-Fix-Review-2022-2.pdf)\n* Notary Project\u00a0[https://ostif.org/wp-content/uploads/2025/01/24-10-1825-LIV-v1.5.pdf](https://ostif.org/wp-content/uploads/2025/01/24-10-1825-LIV-v1.5.pdf)\n* Git\u00a0[https://ostif.org/the-audit-of-git-is-complete/](https://ostif.org/the-audit-of-git-is-complete/)\n* Linux Kernel\u00a0[https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/)\u00a0,\u00a0[https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/)\n* OpenSSL\u00a0[https://ostif.org/wp-content/uploads/2019/01/18-04-720-REP\\_v1.2.pdf](https://ostif.org/wp-content/uploads/2019/01/18-04-720-REP_v1.2.pdf)\u00a0;\u00a0[https://ostif.org/openssl-audit-complete/](https://ostif.org/openssl-audit-complete/)\n\nFeel free to ask anything about security in open source, security audits and fundraising for them, and how we built this startup!\n\nParticipating from the team is:\n\n* Derek, Executive Director\n* Amir, Managing Director\n* Helen, Communications and Projects\n\nThey will be responding from the [u/OSTIFofficial](https://www.reddit.com/u/OSTIFofficial) account between March 3 and March 5.\n\nAlso we encourage any of our community who have received audits already to leave a note here so we can thank you for your efforts in respecting your users\u2019 security!"
+  },
+  {
+    "title": "What mistakes did you make in your career and what can we learn from them.",
+    "score": 110,
+    "date": "2025-03-07 23:21:39",
+    "post_text": "What mistakes did you make in your cybersecurity career and what can we learn from them.\n\nConfessions are welcome.\n\nGive newbie\u2019s like us a chance to learn from your valuable experiences.\n\nEdit:\n\nThanks, everyone, for sharing such great insights!\n\nI\u2019d love to add something from my side. I\u2019ve realised that putting in effort always pays off. When people see the hard work you\u2019ve put in, they naturally feel inclined to help you out."
+  },
+  {
+    "title": "Microsoft says malvertising campaign impacted 1 million PCs",
+    "score": 291,
+    "date": "2025-03-07 17:35:03",
+    "post_text": ""
+  },
+  {
+    "title": "Why is AppSec training still so useless?",
+    "score": 58,
+    "date": "2025-03-08 01:54:47",
+    "post_text": "So, I was looking at [this study](https://www.securitycompass.com/reports/2025-state-of-application-security-training/) on AppSec training, and one stat jumped out: 80%+ of companies require it, but a lot of people think it's outdated, boring, and basically just a compliance checkbox.\n\nWe all know training is important, but if developers are just sitting through some OWASP Top 10 slideshow for the tenth time, are we actually making anything more secure?\n\nSome points from the study:\n\n* Most training is done for compliance, not because it actually helps.\n* Devs complain it\u2019s irrelevant to their actual work. They\u2019re not learning how to spot threats in their own codebases, just generic best practices.\n* AI and automation are changing security, but training isn't keeping up.\n\nWhat's the best AppSec training you\u2019ve actually gotten? Or is it all just check-the-box nonsense? Or what would the training look like if you could do it from scratch?\n\nWould be interesting to hear from people who\u2019ve found something that actually works. Or if it's all useless."
+  },
+  {
+    "title": "Director of Cybersecurity",
+    "score": 142,
+    "date": "2025-03-07 20:31:04",
+    "post_text": "What do you do as a Director of Cybersecurity? How technical are you and what experiences prepared you? I feel that a Director is more about the overall security plan and oversight and less about using Metasploit, Nmap, or using Splunk. "
+  },
+  {
+    "title": "Japanese telco giant NTT Com says hackers accessed details of almost 18,000 organizations",
+    "score": 78,
+    "date": "2025-03-07 21:36:41",
+    "post_text": ""
+  },
+  {
+    "title": "Windows Event Logs to SIEM",
+    "score": 16,
+    "date": "2025-03-08 04:20:07",
+    "post_text": "Are there any pros or cons by sending only Domain Controllers Windows Event Logs vs all hosts - DC's, servers, user desktops/laptops to a SIEM? "
+  },
+  {
+    "title": "Any good companies that provide tabletop exercises?",
+    "score": 20,
+    "date": "2025-03-08 02:08:17",
+    "post_text": "I\u2019m looking into companies that engage in tabletop exercises. I\u2019d like to have a file placed in our environment that acts malicious so our security controls will detect it and we can go through an entire incident response process. Not just a situation on paper. "
+  },
+  {
+    "title": "What is the best way to block .exe and .msi files from being downloaded by end users?",
+    "score": 48,
+    "date": "2025-03-07 19:59:07",
+    "post_text": "Hi yall, I have been looking for a quick and effective way to block these file types from being downloaded for end users in Chrome and Edge. The best way to explain would be to stop users from downloading programs we don\u2019t support/ potentially malicious applications. I would like to have a way to block every but HAVE A WHITELIST FOR EXCEPTIONS.\n\nWhat is the best and most effective way to do this?"
+  }
+]
